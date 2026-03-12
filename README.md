@@ -19,3 +19,7 @@
 ```bash
 git clone <url-репозитория>
 cd work-mate
+
+
+
+![разультат выполнения](https://github.com/{Lanskorot}/{work-mate-test-tusk}/raw/{main}/{path}/result.jpg)
