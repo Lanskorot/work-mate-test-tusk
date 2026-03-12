@@ -21,4 +21,4 @@ git clone <url-репозитория>
 cd work-mate
 
 
-![Результат выполнения](result.jpg)
+![Результат выполнения](https://raw.githubusercontent.com/Lanskorot/work-mate-test-tusk/main/result.jpg)
