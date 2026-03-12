@@ -20,5 +20,3 @@
 git clone <url-репозитория>
 cd work-mate
 
-
-![Результат выполнения](result.jpg)
